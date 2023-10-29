@@ -1,2 +1,9 @@
-# footer-moderno
-Criei um footer moderno com icones de redes sociais atualizados, responsivo para desktop e mobile, siga as instruções nas tags no html e css para configurar da maneira que gostar. 
+# Footer Moderno e Responsivo
+
+Crei um footer moderno e responsivo pra desktop e celular. O footer contem icones de redes sociais atualizados e modernos.
+
+Para fazer as modificações ao seu gosto, eu deixei tudo bem explicado nas /marcações de tags/ que estão no HTML e CSS. 
+
+Faça um bom uso.
+
+> Demostração: [footer-moderno](https://juniordelonge.github.io/footer-moderno/).
